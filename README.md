@@ -1,10 +1,7 @@
-# fbbrute
+# KumpulanFbbrute
+------------------
+# Titorial Web
+www.senitopeng.xyz
 
-
-# Update Versi 2
-https://github.com/Senitopeng/KumpulanFbbrute
-
-
-
-# Tutorial Web Cek
-https://www.senitopeng.xyz/
+# Image
+<img src="Image/Senitopeng.png"/>
